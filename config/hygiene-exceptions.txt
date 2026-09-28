@@ -1,0 +1,6 @@
+# Accounts the Microsoft 365 hygiene report should never flag, one UPN per line.
+# Keep this list short, and review it when the report runs.
+breakglass01@contoso.onmicrosoft.com
+breakglass02@contoso.onmicrosoft.com
+svc-backup@contoso.com
+svc-scanner@contoso.com
